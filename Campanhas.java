@@ -1,3 +1,4 @@
+// Aluno: Gustavo Netto de Carvalho - 10437996
 public abstract class Campanhas{
     // Atributos privados comuns entre as classes filhas
     private String titulo;

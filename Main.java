@@ -1,5 +1,5 @@
-public class Main
-{
+// Aluno: Gustavo Netto de Carvalho - 10437996
+public class Main{
 	public static void main(String[] args) {
 	    // Criando instâncias para testes
 		Campanhas redesSociais = new RedesSociais();

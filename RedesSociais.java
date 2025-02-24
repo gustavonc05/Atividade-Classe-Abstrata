@@ -1,3 +1,4 @@
+// Aluno: Gustavo Netto de Carvalho - 10437996
 public class RedesSociais extends Campanhas{
     // Atributos privados
     private int curtidas;

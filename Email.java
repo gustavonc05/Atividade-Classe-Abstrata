@@ -1,3 +1,4 @@
+// Aluno: Gustavo Netto de Carvalho - 10437996
 public class Email extends Campanhas{
     // Atributos privados
     private double taxa_de_abertura;
